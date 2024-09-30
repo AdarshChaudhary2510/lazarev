@@ -1,2 +1,2 @@
 # lazarev
-This is a simple website I created using HTML and CSS. I used media queries for responsiveness. The project is simple yet responsive and visually appealing. It features a clean and semantic HTML5 structure, along with modern CSS3 for layout, design, and a user-friendly interface.
+This website, created while learning HTML and CSS, is a highly responsive and user-friendly platform designed for seamless interaction across all devices. It features multiple sections, including Home, About, and Services, and utilizes Flexbox for a clean and intuitive layout. The design ensures easy navigation for users, adapting flawlessly to different screen sizes and providing an optimized experience on desktops, tablets, and mobile devices.
